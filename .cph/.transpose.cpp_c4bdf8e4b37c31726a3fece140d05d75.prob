@@ -1,0 +1,1 @@
+{"name":"Local: transpose","url":"c:\\Users\\nisha\\coding\\cpp\\transpose.cpp","tests":[{"id":1625756244812,"input":"3\n1 3 5\n2 6 8\n4 7 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nisha\\coding\\cpp\\transpose.cpp","group":"local","local":true}

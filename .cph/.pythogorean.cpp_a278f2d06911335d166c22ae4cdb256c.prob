@@ -1,0 +1,1 @@
+{"name":"Local: pythogorean","url":"c:\\Users\\nisha\\coding\\cpp\\pythogorean.cpp","tests":[{"id":1625247686656,"input":"5 4 3","output":"Pythogorean Triplet"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nisha\\coding\\cpp\\pythogorean.cpp","group":"local","local":true}
